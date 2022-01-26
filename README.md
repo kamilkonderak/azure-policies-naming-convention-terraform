@@ -1,0 +1,1 @@
+# azure-policies-naming-convention-terraform
